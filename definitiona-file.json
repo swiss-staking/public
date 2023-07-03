@@ -1,5 +1,5 @@
 {
- "name": "Go Cluster 01",
+ "name": "RPL DVT",
  "creator": {
   "address": "",
   "config_signature": ""
@@ -24,9 +24,9 @@
    "enr_signature": ""
   }
  ],
- "uuid": "7D8C1C36-E6A5-7EF1-3743-2587D644EC4C",
+ "uuid": "5E896C32-C38A-6CBA-6953-870D4A47078A",
  "version": "v1.7.0",
- "timestamp": "2023-07-02T19:26:40+02:00",
+ "timestamp": "2023-06-28T14:06:33Z",
  "num_validators": 1,
  "threshold": 2,
  "validators": [
@@ -37,6 +37,6 @@
  ],
  "dkg_algorithm": "default",
  "fork_version": "0x00000000",
- "config_hash": "0x9b9d250c9e809d5b92493616290e9cb0fc68d332c5012e05b8fec9085c68e0a5",
- "definition_hash": "0xfb6d8ee83e8b373778504f51cbb82884f5ff069515e3abc63537b5f67b7075b5"
+ "config_hash": "0xf021dc66c491e67653466b6f2153702e66d429cf14bfa40b31c6331bdc12900c",
+ "definition_hash": "0x72c1171e63eb46606aa59e033fba796d4aff28036afde6681057ac21b47fa88b"
 }
