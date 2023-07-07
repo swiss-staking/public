@@ -1,5 +1,5 @@
 {
- "name": "RPL DVT",
+ "name": "k8s ceremony",
  "creator": {
   "address": "",
   "config_signature": ""
@@ -7,26 +7,26 @@
  "operators": [
   {
    "address": "",
-   "enr": "enr:-HW4QJ5Gpi1pO_P_9rWSDQx2MczQ2OPNeNRnZeGWxIXTVUpyBZ-w75Fk52Hab_bXTP7fIUJtGjkt0-VB9GnNOPxAFdaAgmlkgnY0iXNlY3AyNTZrMaECIcs2cmX7Un0QF5ahg8khUMe_Wfi9LnxWiZ9YTKshqHw",
+   "enr": "enr:-HW4QKUrEQWKp0zd7ZTrwZosSlNH-nyuXWGM3iiPeSUUdyY2KSwjRA755b_0kbgHZBa3EJC1NoqD7F6IZGxVArIgcNqAgmlkgnY0iXNlY3AyNTZrMaECfp2BmkGFtE5mob-HcQSeLYk1TJ5ejAtPSEjtJ4JFbEg",
    "config_signature": "",
    "enr_signature": ""
   },
   {
    "address": "",
-   "enr": "enr:-HW4QL9sb82cERQehRfftgCf1OivefVyGz4j7rIcL98ekbtxXg2HSFHOLsK80_ZeaFLpCyEuAzGWA02biVqipaNOOnGAgmlkgnY0iXNlY3AyNTZrMaED0JXNhKph-Z86IdxxPlxOnroUoszsMZAphEhBRW6ctSQ",
+   "enr": "enr:-HW4QIK0HdDRBixOa-uUpQ4tpSbJ4pz61CZ9PbMHfI16MrzsOcMeOIaHWrmviwX7UO0i0jxHTi41FLSIVk1v6_L-mWSAgmlkgnY0iXNlY3AyNTZrMaECxV-JE-TQXZAmNufonNTtwM5yjxpCkjvwqt5hLgfCE58",
    "config_signature": "",
    "enr_signature": ""
   },
   {
    "address": "",
-   "enr": "enr:-HW4QJbitBnomXaBE885AwPgHFyz37iwOMQfimiM8yLO17o4E1P2QPt32_KWSNZ1xkkpdEIJEdtUMa-7OSDdHpwZwl-AgmlkgnY0iXNlY3AyNTZrMaEDBNhm9SCKQOfwEuJYdoAjuEn-a46hEzpl2OYjOABhy7Y",
+   "enr": "enr:-HW4QOFzx3p86e7bsl9hiFPBZju5tQcGaw3sCahJUGaYUtJ5CullzJkbwVjmXo4ZmQ2BCk3mUPQ81lLG-qL_Mr5t1gmAgmlkgnY0iXNlY3AyNTZrMaECcZah4qiswoI8jDVufSk0V-IDVtCHb06KH5e7e5xCRXs",
    "config_signature": "",
    "enr_signature": ""
   }
  ],
- "uuid": "5E896C32-C38A-6CBA-6953-870D4A47078A",
+ "uuid": "73781B89-64B8-D6F5-4DAD-9C9B7FBB3E85",
  "version": "v1.7.0",
- "timestamp": "2023-06-28T14:06:33Z",
+ "timestamp": "2023-07-07T08:23:09Z",
  "num_validators": 1,
  "threshold": 2,
  "validators": [
@@ -37,6 +37,6 @@
  ],
  "dkg_algorithm": "default",
  "fork_version": "0x00000000",
- "config_hash": "0xf021dc66c491e67653466b6f2153702e66d429cf14bfa40b31c6331bdc12900c",
- "definition_hash": "0x72c1171e63eb46606aa59e033fba796d4aff28036afde6681057ac21b47fa88b"
+ "config_hash": "0xb148173842b627d923fd8b7908236c6c56ca1bbe15f501be34742cbc3f1c9f8f",
+ "definition_hash": "0x314b3fa52f9ff60f2b39841e03688abf640b9a952953cd12981067e55a00ee53"
 }
