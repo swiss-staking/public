@@ -1,0 +1,42 @@
+{
+ "name": "Cluster1",
+ "creator": {
+  "address": "",
+  "config_signature": ""
+ },
+ "operators": [
+  {
+   "address": "",
+   "enr": "enr:-HW4QAUdswp5u2MU3pA2ojzSK1p9xBnEzr_BPJBMmfkw_qzkRlwory8Kz0ZhUpT5-th41cMMVKX1iCuSW47wQ5gDApaAgmlkgnY0iXNlY3AyNTZrMaECLfyXCYGCq396XrpGc6O258ksoXXmqHoNzG5STLtPfls",
+   "config_signature": "",
+   "enr_signature": ""
+  },
+  {
+   "address": "",
+   "enr": "enr:-HW4QIEqR_dIf3249WqHRU0BPM2Axqlc2WAzWJfCX0cp7qpPQ9B7gjEPooI-hAmWdTjwBa2QvJk55ea1_LoR8_j5Ev2AgmlkgnY0iXNlY3AyNTZrMaECmowuN3RwUdXSDsZa1m8wJOFrkZPT-7HYlzRMgkZUbdc",
+   "config_signature": "",
+   "enr_signature": ""
+  },
+  {
+   "address": "",
+   "enr": "enr:-HW4QP45NqzBDZsswIK0XfHl1wcLbkQIszMblFCluKqedqZGcl_SbBSdCmIuBI9YnJrp9KV1YFWEJfuXy8z3nv56NwyAgmlkgnY0iXNlY3AyNTZrMaED9QBwti5uVWDhPORC4_D2KqkTCuty8qiauR57Alg7bNU",
+   "config_signature": "",
+   "enr_signature": ""
+  }
+ ],
+ "uuid": "F0D1B350-2A38-1101-895C-669966B01F90",
+ "version": "v1.7.0",
+ "timestamp": "2023-07-12T11:19:52Z",
+ "num_validators": 1,
+ "threshold": 2,
+ "validators": [
+  {
+   "fee_recipient_address": "0x33Cd1229A75C23e6Cf8E6770D3C1Af696e94dbc3",
+   "withdrawal_address": "0x33Cd1229A75C23e6Cf8E6770D3C1Af696e94dbc3"
+  }
+ ],
+ "dkg_algorithm": "default",
+ "fork_version": "0x00000000",
+ "config_hash": "0x65713a515000ede9599e6abc64c5c9a1d4c4fac5019dd8add99f6f2814120a90",
+ "definition_hash": "0x9dd7ecfa3b95b9d2946a1ff174dc2fb233f1660f74a599d46eb6571131cebc04"
+}
