@@ -1,7 +1,7 @@
 {
   "name": "Swiss Staking AG",
   "website": "https://swiss-staking.ch",
-  "description": "Our Restaking / EigenDA operator and Ethereum validators run in a former military bunker in Switzerland without any exposure to cloud providers - fully owning the hardware we validate on. Swiss Staking has close to ~90,000 delegators across 20+ networks. ",
+  "description": "Swiss Staking has close to ~90,000 delegators across 20+ networks and runs its Eigenlayer and Ethereum operator in a former military bunker in Switzerland for maximal security and reliability.",
   "logo": "https://swiss-staking.ch/images/logo.png",
   "twitter": "https://x.com/swiss_staking"
 }
